@@ -2,7 +2,12 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on a Gym Dashboard<br>🌱 I’m currently learning Spring Boot (Java)<br>👨‍💻 All of my projects are available at [Portfolio](https://thiagos-portfolio.vercel.app/)</p>
+<p align="left">
+🔭 I’m currently working on a Gym Dashboard<br>
+🌱 I’m currently learning Spring Boot (Java)<br>
+👨‍💻 All of my projects are available at 
+<a href="https://thiagos-portfolio.vercel.app/" target="_blank">Portfolio</a>
+</p>
 
 ###
 
